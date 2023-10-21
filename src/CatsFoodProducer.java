@@ -1,4 +1,4 @@
-public class CatsFoodProducer extends Restaurant {
+public class CatsFoodProducer extends PetStore {
 
   @Override
   public PetFood createPetFood() {
